@@ -15,6 +15,6 @@ One problem was in question q18.The AI needed to calculate the number.First it u
 
 ## 3. Workflow or agent for the monthly ranking?
 
-I would choose Workflow for the monthly reports.In our test Workflow gave 13 correct answers out of 15.The AI agent gave only 9 correct answers out of 15.Workflow used 3,852 tokens. The agent used 19,835 tokens.Workflow was also faster. It took 17.7 seconds.The agent took 50.9 seconds.I think workflow is better for this job.The company does the same work every month. We know what steps we need to do.Workflow follows these steps. It is simple, fast and uses fewer tokens.But for difficult questions I would use an AI agent.This agent can choose different tools and do different tasks.
+I would choose Workflow for the monthly reports.In our test Workflow gave 13 correct answers out of 15.The AI agent gave only 9 correct answers out of 15.Workflow used 3,852 tokens.Workflow — 15 and agent — 26. The agent used 19,835 tokens.Workflow was also faster. It took 17.7 seconds.The agent took 50.9 seconds.I think workflow is better for this job.The company does the same work every month. We know what steps we need to do.Workflow follows these steps. It is simple, fast and uses fewer tokens.But for difficult questions I would use an AI agent.This agent can choose different tools and do different tasks.
 
 
